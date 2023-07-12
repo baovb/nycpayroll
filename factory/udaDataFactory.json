@@ -1,0 +1,9 @@
+{
+	"name": "udaDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5150bc89-4f89-49ef-9b00-1837c3620060",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
